@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:123A6B,100:0B1D3A&height=200&section=header&text=FRANCO%20CACCIA&fontSize=52&fontColor=FFB000&fontAlignY=40&desc=Quant%20%C2%B7%20Aerospace%20%C2%B7%20Aviation%20software&descAlignY=62&descSize=17&descColor=C9D6EA" width="100%" alt="Franco Caccia"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:123A6B,100:0B1D3A&height=200&section=header&text=FRANCO%20CACCIA&fontSize=52&fontColor=FFB000&fontAlignY=40&desc=Software%20%C2%B7%20Quant%20%C2%B7%20Aerospace%20%C2%B7%20Aviation%20%C2%B7%20and%20more&descAlignY=62&descSize=17&descColor=C9D6EA" width="100%" alt="Franco Caccia"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FFB000&center=true&vCenter=true&width=720&lines=CS+grad+%E2%86%92+M.S.+Aerospace+%26+Space+Systems+%40+Lehigh;Commercial+pilot+%C2%B7+IFR+%C2%B7+Flight+dispatcher;Quant+analyst+%C2%B7+Go+%C2%B7+Python+%C2%B7+LLM+trading+bots;Where+finance+meets+flight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=FFB000&center=true&vCenter=true&width=760&lines=CS+grad+%E2%86%92+M.S.+Aerospace+%26+Space+Systems+%40+Lehigh;Commercial+pilot+(ANAC)+%C2%B7+IFR+%C2%B7+FAA+certs+in+progress;Quant+analyst+%C2%B7+Go+%C2%B7+Python+%C2%B7+LLM+trading+bots;I+like+building+software%2C+all+kinds+of+it)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Caccia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Caccia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franco-caccia-37b5a1177/)
 [![GitHub](https://img.shields.io/badge/Francocaccia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Francocaccia)
 
 </div>
@@ -15,11 +15,11 @@
 
 ```
 SABE  ──✈──▶  KLYH  ──✈──▶  KABE
-Buenos Aires   Lynchburg, VA   Lehigh Valley, PA
-home           CS degree       M.S. Aerospace & Space Systems
+Buenos Aires   Lynchburg, VA   Bethlehem, PA
+Home           CS degree       M.S. Aerospace & Space Systems
 ```
 
-I'm a computer science graduate (University of Lynchburg, minor in mathematics) and M.S. student in Aerospace & Space Systems Engineering at Lehigh. I hold a commercial pilot license with instrument rating and a flight dispatcher license, and I build quantitative finance software where numbers have to be right and mistakes are expensive.
+I'm a computer science graduate (University of Lynchburg, minor in mathematics) and M.S. student in Aerospace & Space Systems Engineering at Lehigh. I'm an instrument-rated commercial pilot (ANAC Argentina) with my FAA certificates in progress, and I build software where numbers have to be right and mistakes are expensive. Finance and aviation are where I spend most of my time, but I'm into software in general: backends, data pipelines, systems, and whatever is next.
 
 ## 🌤 Weather at home and at school
 
@@ -82,12 +82,32 @@ Raw data: [`/stats`](https://autotradingbot-kjr0.onrender.com/stats)
 
 </details>
 
+## 🛫 Next on the runway (planned, not built yet)
+
 <details>
-<summary><b>Coming up</b></summary>
+<summary><b>Lending protocol with Chainlink price feeds</b></summary>
 
 <br>
 
-An IFR navigation trainer, a METAR/TAF decoder, a market-risk checker, and a portfolio site. They will show up here once they are public.
+A collateralized lending protocol: deposits, borrows, interest accrual, health factors and liquidations, priced with Chainlink oracles and covered by fuzz and invariant tests. Solidity · Foundry.
+
+</details>
+
+<details>
+<summary><b>MEV sandwich-attack detector</b></summary>
+
+<br>
+
+Scans on-chain swap data to flag sandwich attacks and quantify what victims lost to slippage, with a small dashboard of the findings. Python · SQL · public node and indexer data.
+
+</details>
+
+<details>
+<summary><b>Mini blockchain from scratch in Go</b></summary>
+
+<br>
+
+A small chain built to understand the fundamentals: peer-to-peer networking, block and transaction validation, a proof-of-stake validator set and account state. Go.
 
 </details>
 
@@ -111,11 +131,21 @@ Market and asset analysis with weekly updates, and an automated quantitative sto
 
 </details>
 
+<details>
+<summary><b>Coursework</b></summary>
+
+<br>
+
+Artificial Intelligence · Machine Learning · Data Structures · Databases · Operating Systems · Architecture & Assembly · Applied Regression · Business Statistics · Investment Fundamentals · Finance · Accounting
+
+</details>
+
 ## 🎖 Ratings & certificates
 
 ```
-▸ Commercial Pilot, Instrument Rating     FAA · ANAC Argentina
-▸ Flight Dispatcher
+▸ Commercial Pilot, Instrument Rating     ANAC Argentina
+▸ Commercial Pilot (FAA)                  in progress of conversion
+▸ Flight Dispatcher                       in progress
 ▸ Restricted Radiotelephone Operator      FCC
 ▸ Bloomberg Market Concepts
 ```
@@ -126,17 +156,36 @@ Market and asset analysis with weekly updates, and an automated quantitative sto
 
 ## 🛠 Stack
 
+**Languages**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**Web, data and cloud**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<sub>Also: Assembly, Flex & Bison.</sub>
 
 ---
 
