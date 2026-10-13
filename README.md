@@ -26,14 +26,14 @@ I'm a computer science graduate (University of Lynchburg, minor in mathematics) 
 **SABE** (Aeroparque, Buenos Aires)
 <!--METAR_SABE_START-->
 ```
-Waiting for the first automatic update.
+METAR SABE 130600Z 18003KT 140V220 9999 SCT009 BKN014 OVC018 14/12 Q1016 NOSIG
 ```
 <!--METAR_SABE_END-->
 
 **KABE** (Lehigh Valley, nearest field to campus)
 <!--METAR_KABE_START-->
 ```
-Waiting for the first automatic update.
+SPECI KABE 130632Z 00000KT 10SM CLR 12/12 A2993 RMK AO2 T01220122 $
 ```
 <!--METAR_KABE_END-->
 
