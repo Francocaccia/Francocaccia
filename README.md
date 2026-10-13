@@ -23,14 +23,14 @@ I'm a computer science graduate (University of Lynchburg, minor in mathematics) 
 
 ## 🌤 Weather at home and at school
 
-**SABE** (Aeroparque, Buenos Aires)
+**SABE** (Aeroparque Internacional Jorge Newbery, Buenos Aires)
 <!--METAR_SABE_START-->
 ```
 METAR SABE 130600Z 18003KT 140V220 9999 SCT009 BKN014 OVC018 14/12 Q1016 NOSIG
 ```
 <!--METAR_SABE_END-->
 
-**KABE** (Lehigh Valley, nearest field to campus)
+**KABE** (Lehigh Valley International Airport, Allentown)
 <!--METAR_KABE_START-->
 ```
 SPECI KABE 130632Z 00000KT 10SM CLR 12/12 A2993 RMK AO2 T01220122 $
