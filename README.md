@@ -26,7 +26,7 @@ I'm a computer science graduate (University of Lynchburg, minor in mathematics) 
 **SABE** (Aeroparque Internacional Jorge Newbery, Buenos Aires)
 <!--METAR_SABE_START-->
 ```
-METAR SABE 270800Z 36010KT 9999 FEW025 SCT100 BKN200 15/10 Q1020 NOSIG
+METAR SABE 271500Z 03005KT 330V110 9999 FEW046 BKN060 16/07 Q1023 NOSIG
 ```
 <!--METAR_SABE_END-->
 
