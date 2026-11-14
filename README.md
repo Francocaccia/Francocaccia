@@ -26,14 +26,14 @@ I'm a computer science graduate (University of Lynchburg, minor in mathematics) 
 **SABE** (Aeroparque Internacional Jorge Newbery, Buenos Aires)
 <!--METAR_SABE_START-->
 ```
-METAR SABE 131900Z 06011KT CAVOK 25/17 Q1013 NOSIG
+METAR SABE 140100Z 04004KT CAVOK 24/18 Q1013 NOSIG
 ```
 <!--METAR_SABE_END-->
 
 **KABE** (Lehigh Valley International Airport, Allentown)
 <!--METAR_KABE_START-->
 ```
-SPECI KABE 131911Z 34011G19KT 10SM SCT016 OVC031 04/01 A2968 RMK AO2 RAE06 P0000 T00390011
+SPECI KABE 140109Z 32006KT 10SM BKN028 OVC070 03/M01 A2976 RMK AO2 T00331006
 ```
 <!--METAR_KABE_END-->
 
